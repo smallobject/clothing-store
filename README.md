@@ -1,10 +1,10 @@
 # clothing-store
-Project files for a clothing store made with React, Redux, Redux-Sagas, Stripe, GraphQL+Apollo
+Project files for a clothing store made with React, Redux, Redux-Sagas, Stripe, GraphQL+Apollo, etc.
 
 # Technologies used
 - React
-- Styled Components
 - React Hooks
+- styled-components
 - Redux
 - Redux Sagas
 - Firebase
@@ -13,11 +13,11 @@ Project files for a clothing store made with React, Redux, Redux-Sagas, Stripe, 
 - GraphQL
 - Apollo
 
-# Usage
+# Run this yourself
 ```
 Clone the repo
 Install depedencies
 Change Stripe publishable key to match yours
 Change Firebase information to match yours
-Add a .env file with STRIPE_SECRET_KEY to make create a full payment from the backend to Stripe.
+Add a .env file with STRIPE_SECRET_KEY to create a full payment from the backend to Stripe.
 ```
